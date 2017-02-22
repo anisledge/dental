@@ -1,0 +1,63 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    width: 100%;
+    margin-bottom: 170px;
+}
+
+header, footer {
+    width: 100%;
+    padding-top: 52px;
+}
+
+header {
+    height: 125px;
+    background: #7e87b2;
+}
+
+main {
+    padding-bottom: 25px;
+}
+
+.featured {
+    margin-top: 25px;
+    padding-bottom: 96%;
+    background: #7eb0a5;
+}
+
+footer {
+    position: absolute;
+    height: 170px;
+    bottom: 0;
+    background: #e4efd1;
+}
+
+/* TYPOGRAPHY ;*/
+h1, h2 {
+    margin: 0 0 0 20px;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 0.02em
+}
+
+h1 {  
+    font-size: 35px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 32px;
+    color: #c235d9;
+    font-variant: small-caps;
+}
+
+/* GRID */
+.row,
+.col-md-3, 
+.col-sm-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
