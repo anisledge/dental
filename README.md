@@ -1,2 +1,2 @@
 # dental
-A simple responsive webpage using Bootstrap
+A simple responsive webpage using Bootstrap and HTML5
